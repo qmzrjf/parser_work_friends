@@ -3,5 +3,5 @@ def test(x: int) -> int | None:
         return x
     return None
 
+
 t = test(123)
-t + 1
